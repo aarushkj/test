@@ -1,0 +1,14 @@
+# secrets
+secrets.h
+.env
+
+# build output
+build/
+*.bin
+*.hex
+*.elf
+
+# editor and OS clutter
+.vscode/
+.DS_Store
+Thumbs.db
