@@ -4,7 +4,7 @@ Measures distance with an HC-SR04 ultrasonic sensor and lights an LED when an ob
 
 ## Components
 
-Full list with quantities: [docs/bill-of-materials.csv](docs/bill-of-materials.csv)
+Full list with quantities: (docs/bill-of-materials.csv)
 
 - ESP32 DevKit V1
 - HC-SR04 ultrasonic sensor
